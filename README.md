@@ -22,4 +22,4 @@ Marge the catalog pages with [merge.py](merge.py).
 ## Sensemaking
 Before running [sensemaking.py](sensemaking.py), you need to download all the catalog pages and merge them into one file. You can do that by running [courseCatalog.py](courseCatalog.py) first and then [merge.py](merge.py).
 
-Note: the merged files has over 45,000 lines of html. Parsing will be slow.
+Note: the merged file has over 45,000 lines of html. Parsing will be slow.
