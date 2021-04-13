@@ -2,7 +2,7 @@
 Scrape the MIT course catalog with using python.
 
 ## Quickstart
-You can start by running  quickstart.py and downloading a single catalog page.
+You can start by running  [a relative link](quickstart.py) and downloading a single catalog page.
 ```python
 import urllib.request
 
@@ -14,10 +14,10 @@ urllib.request.urlretrieve(url, 'm1a.html')
 ```
 
 ## All Catalog Pages
-You can down all the pages of the catalog with file named courseCatalog.py
+You can down all the pages of the catalog with file named [a relative link](courseCatalog.py).
 
 ## Merge pages
-Marge the catalog pages with merge.py
+Marge the catalog pages with [a relative link](merge.py).
 
 ## Sensemaking
-Before running sensemaking.py, you need to download all the catalog pages and merge them into one file. You can do that by running courseCatalog.py first and then merge.py.
+Before running [a relative link](sensemaking.py), you need to download all the catalog pages and merge them into one file. You can do that by running [a relative link](courseCatalog.py) first and then [a relative link](merge.py).
